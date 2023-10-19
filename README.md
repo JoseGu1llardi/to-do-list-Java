@@ -15,7 +15,7 @@ Este projeto consiste em uma aplicação de lista de tarefas (To-Do List) desenv
 
 ## Como Utilizar
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/java-todolist-rocketseat.git`
+1. Clone o repositório: `git clone [https://github.com/seu-usuario/java-todolist-rocketseat.git](https://github.com/JoseGu1llardi/to-do-list-java)`
 2. Abra o projeto em sua IDE Java preferida.
 3. Execute a aplicação.
 
@@ -27,6 +27,6 @@ Contribuições são bem-vindas! Se encontrar algum problema ou tiver sugestões
 
 Se tiver alguma dúvida ou precisar entrar em contato.
 
-Apreciamos sua participação!
+Aprecio sua participação!
 
 ---
