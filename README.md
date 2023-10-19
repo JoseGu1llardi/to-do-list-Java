@@ -1,4 +1,4 @@
-# Rocketseat Java To-Do List
+# Java To-Do List
 
 Bem-vindo ao projeto Rocketseat Java To-Do List! Este é um projeto simples desenvolvido durante um curso da Rocketseat para praticar conceitos básicos de Java.
 
